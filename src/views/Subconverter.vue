@@ -211,7 +211,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://sub.xnew.eu.org:25500/sub?" }],
+        backendOptions: [{ value: "https://sub.xnew.eu.org/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
